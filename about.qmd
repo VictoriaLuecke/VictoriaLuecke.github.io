@@ -1,0 +1,133 @@
+---
+title: "Curriculum Vitae"
+page-layout: full
+toc: false
+format:
+  html:
+    theme: cosmo
+    css: cv-styles.css
+    page-layout: full
+---
+
+:::::::::::::::::::: cv-container
+# Victoria Lücke
+
+**Master Student in Statistical Sciences**\
+Bielefeld University
+
+------------------------------------------------------------------------
+
+## Education
+
+::::: cv-item
+::: cv-left
+**M.Sc. Statistical Sciences**\
+Bielefeld University, Germany
+:::
+
+::: cv-right
+10/2025 – Present
+:::
+:::::
+
+::::: cv-item
+::: cv-left
+**B.Sc. Economics**\
+Paderborn University, Germany
+:::
+
+::: cv-right
+10/2021 – 09/2025
+:::
+:::::
+
+::::: cv-item
+::: cv-left
+**B.Sc. Economics**\
+Paderborn University, Germany
+:::
+
+::: cv-right
+10/2021 – 09/2025
+:::
+:::::
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## Professional Experience
+
+::::: cv-item
+::: cv-left
+**Assistant in the field of Social Media and IT**\
+dggö
+:::
+
+::: cv-right
+10/2025 – Present
+:::
+:::::
+
+::::: cv-item
+::: cv-left
+**Research Assistant at the Faculty of Empirical Economics**\
+University Paderborn, Germany
+:::
+
+::: cv-right
+04/2024 – Present
+:::
+:::::
+
+::::: cv-item
+::: cv-left
+**Research Assistant at the Faculty of International Accounting**\
+University Paderborn, Germany
+:::
+
+::: cv-right
+09/2024 – 02/2025
+:::
+:::::
+
+::::: cv-item
+::: cv-left
+**Project work in the field of accounting**\
+PwC, Düsseldorf
+:::
+
+::: cv-right
+04/2025 – 07/2024
+:::
+:::::
+
+::::: cv-item
+::: cv-left
+**Internship (in the field of semiconductor testing)**\
+ADVANTEST, Böblingen
+:::
+
+::: cv-right
+2019
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Skills
+
+**Software:** RStudio, Stata, SPSS, Microsoft Office
+
+------------------------------------------------------------------------
+
+## Certifications
+
+**Microsoft Office**\
+University Paderborn (2023)
+
+**LaTex**\
+University Paderborn (2023)
+
+------------------------------------------------------------------------
+
