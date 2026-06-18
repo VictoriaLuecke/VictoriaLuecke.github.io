@@ -14,10 +14,12 @@ website:
             href: about.qmd
           - text: "Political & Environmental Activism"
             href: active.qmd
+      - text: "Statistical Software"
+        href: software.qmd
       - text: "My Projects" 
         menu: 
-        - text: "R-Course"
-          href: proj1.qmd          
+          - text: "R-Course"
+            href: proj1.qmd          
       - text: "Help"
         href: help.qmd
     sidebar: false
