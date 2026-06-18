@@ -11,35 +11,21 @@
     "href": "software.html",
     "title": "Statistical Software",
     "section": "",
-    "text": "The following table provides an overview of the statistical software packages I have used, the types of data I worked with, and the methods I applied.\n\n\n\n\n\n\n\n\n\nSoftware\nData Types\nMethods\nExample Applications\n\n\n\n\nR\nLongitudinal data, animal movement data, survey data, experimental data\nHidden Markov Models, GLMs, Linear Mixed Models, ANOVA, MANOVA, Multilevel Regression\nAnalysis of muskox movement data using Hidden Markov Models\n\n\nStata\nChoice experiment data, survey data, panel data\nConditional Logit Models, Mixed Logit Models\nSustainable investment choice experiment\n\n\nPython\nUnstructured text data, social media data\nNLP, Tokenization, Stemming, Sentiment Analysis, Classification Evaluation\nSentiment analysis of airline tweets in Google Colab\n\n\nSPSS\nSurvey data, socio-economic data, cross-sectional data\nANOVA, Factor Analysis, Cluster Analysis, Discriminant Analysis\nMultivariate statistical analysis\n\n\nTableau\nInternational socio-economic indicator data\nScatterplots, Histograms, Boxplots, Interactive Dashboards\nWorld Indicators dataset\n\n\nGit/GitHub\nCode repositories, websites\nVersion Control, Collaboration, GitHub Pages Deployment\nHosting and deployment of a Quarto website\n\n\nQuarto\nReports, websites, reproducible analyses\nWebsite Development\nPersonal portfolio website\n\n\nLaTeX\nAcademic documents\nScientific Writing\nReports, assignments and presentations"
+    "text": "The following table provides an overview of the statistical software packages I have used, the types of data I worked with, and the methods I applied.\n\n\n\n\n\n\n\n\n\nSoftware\nData Types\nMethods\nExample Applications\n\n\n\n\nR\nLongitudinal data, animal movement data, survey data, experimental data\nHidden Markov Models, GLMs, Linear Mixed Models, ANOVA, MANOVA, Multilevel Regression\nAnalysis of animal movement data using Hidden Markov Models\n\n\nStata\nChoice experiment data, survey data\nConditional Logit Models, Mixed Logit Models\nSustainable investment choice experiment\n\n\nPython\nUnstructured text data, social media data\nTokenization, Stemming, Sentiment Analysis, Classification Evaluation\nSentiment analysis of airline tweets in Google Colab\n\n\nSPSS\nSurvey data, socio-economic data, cross-sectional data\nANOVA, Factor Analysis, Cluster Analysis, Discriminant Analysis\nMultivariate statistical analysis\n\n\nTableau\nInternational socio-economic indicator data\nScatterplots, Histograms, Boxplots, Interactive Dashboards\nWorld Indicators dataset"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to My Website",
     "section": "",
-    "text": "Hi there! I’m Victoria, a passionate researcher, R programmer, and lifelong learner. Here you’ll find information about my background, skills, and education. Whether you’re a potential employer, colleague, or collaborator, I’m excited to share my journey with you."
+    "text": "Hello and welcome to my portfolio!\nI am Victoria Lücke, a Master’s student in Statistical Sciences with a background in Economics and a strong interest in data-driven research. I am passionate about using statistical methods and programming to transform data into meaningful insights.\nMy work focuses on statistical modelling, econometrics, and applied data analysis. Throughout my studies, I have worked on projects involving experimental data, panel data, survey data, and longitudinal data using R, Stata, Python, SPSS, and Tableau.\nThis website provides an overview of my academic background and technical skills. I hope it gives you an impression of my interests, experience, and approach to quantitative research."
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
     "title": "Welcome to My Website",
     "section": "",
-    "text": "Hi there! I’m Victoria, a passionate researcher, R programmer, and lifelong learner. Here you’ll find information about my background, skills, and education. Whether you’re a potential employer, colleague, or collaborator, I’m excited to share my journey with you."
-  },
-  {
-    "objectID": "index.html#dive-into-my-r-projects",
-    "href": "index.html#dive-into-my-r-projects",
-    "title": "Welcome to My Website",
-    "section": "Dive into My R Projects",
-    "text": "Dive into My R Projects\nExplore my portfolio of R projects."
-  },
-  {
-    "objectID": "index.html#connect-with-me",
-    "href": "index.html#connect-with-me",
-    "title": "Welcome to My Website",
-    "section": "Connect with Me",
-    "text": "Connect with Me\nInterested in collaborating on a project or discussing data science topics? Connect with me via email at victoria.luecke@uni-bielefeld.de"
+    "text": "Hello and welcome to my portfolio!\nI am Victoria Lücke, a Master’s student in Statistical Sciences with a background in Economics and a strong interest in data-driven research. I am passionate about using statistical methods and programming to transform data into meaningful insights.\nMy work focuses on statistical modelling, econometrics, and applied data analysis. Throughout my studies, I have worked on projects involving experimental data, panel data, survey data, and longitudinal data using R, Stata, Python, SPSS, and Tableau.\nThis website provides an overview of my academic background and technical skills. I hope it gives you an impression of my interests, experience, and approach to quantitative research."
   },
   {
     "objectID": "proj1.html",

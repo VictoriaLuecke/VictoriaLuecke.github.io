@@ -10,14 +10,14 @@ about:
  image-shape: rounded
 ---
 
-## About Me
+## Welcome
 
-Hi there! I'm Victoria, a passionate researcher, R programmer, and lifelong learner. Here you'll find information about my background, skills, and education. Whether you're a potential employer, colleague, or collaborator, I'm excited to share my journey with you.
+Hello and welcome to my portfolio!
 
-## Dive into My R Projects
+I am Victoria Lücke, a Master's student in Statistical Sciences with a background in Economics and a strong interest in data-driven research. I am passionate about using statistical methods and programming to transform data into meaningful insights.
 
-Explore my portfolio of R projects.
+My work focuses on statistical modelling, econometrics, and applied data analysis. Throughout my studies, I have worked on projects involving experimental data, panel data, survey data, and longitudinal data using R, Stata, Python, SPSS, and Tableau.
 
-## Connect with Me
+This website provides an overview of my academic background and technical skills. I hope it gives you an impression of my interests, experience, and approach to quantitative research.
 
-Interested in collaborating on a project or discussing data science topics? Connect with me via email at victoria.luecke\@uni-bielefeld.de
+

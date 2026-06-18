@@ -17,10 +17,6 @@ website:
             href: active.qmd
       - text: "Statistical Software"
         href: software.qmd
-      - text: "My Projects" 
-        menu: 
-          - text: "R-Course"
-            href: proj1.qmd          
     sidebar: false
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
