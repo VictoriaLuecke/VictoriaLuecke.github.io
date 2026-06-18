@@ -9,12 +9,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About Me"
-        menu: 
-          - text: "My Resume"
-            href: about.qmd
-          - text: "Political & Environmental Activism"
-            href: active.qmd
+      - text: "My Resume"
+        href: about.qmd
       - text: "Statistical Software"
         href: software.qmd
     sidebar: false

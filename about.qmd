@@ -34,21 +34,34 @@ Bielefeld University, Germany
 ::: cv-left
 **B.Sc. Economics**\
 Paderborn University, Germany
+Graduated with distinction (Final grade: 1.1)
 :::
 
 ::: cv-right
-10/2021 – 09/2025
+2022 – 08/2025
 :::
 :::::
 
 ::::: cv-item
 ::: cv-left
-**B.Sc. Economics**\
+**B.Sc. Physics**\
 Paderborn University, Germany
 :::
 
 ::: cv-right
-10/2021 – 09/2025
+2021 – 2022
+:::
+:::::
+
+::::: cv-item
+::: cv-left
+**Abitur (German University Entrance Qualification)**\
+König-Wilhelm-Gymnasium, Germany
+Final grade: 1.4
+:::
+
+::: cv-right
+2021 – 2022
 :::
 :::::
 
@@ -61,7 +74,7 @@ Paderborn University, Germany
 ::::: cv-item
 ::: cv-left
 **Assistant in the field of Social Media and IT**\
-dggö
+German Health Economics Association e.V. (dggö)
 :::
 
 ::: cv-right

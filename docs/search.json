@@ -21,11 +21,11 @@
     "text": "Hello and welcome to my portfolio!\nI am Victoria Lücke, a Master’s student in Statistical Sciences with a background in Economics and a strong interest in data-driven research. I am passionate about using statistical methods and programming to transform data into meaningful insights.\nMy work focuses on statistical modelling, econometrics, and applied data analysis. Throughout my studies, I have worked on projects involving experimental data, panel data, survey data, and longitudinal data using R, Stata, Python, SPSS, and Tableau.\nThis website provides an overview of my academic background and technical skills. I hope it gives you an impression of my interests, experience, and approach to quantitative research."
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
     "title": "Welcome to My Website",
-    "section": "",
-    "text": "Hello and welcome to my portfolio!\nI am Victoria Lücke, a Master’s student in Statistical Sciences with a background in Economics and a strong interest in data-driven research. I am passionate about using statistical methods and programming to transform data into meaningful insights.\nMy work focuses on statistical modelling, econometrics, and applied data analysis. Throughout my studies, I have worked on projects involving experimental data, panel data, survey data, and longitudinal data using R, Stata, Python, SPSS, and Tableau.\nThis website provides an overview of my academic background and technical skills. I hope it gives you an impression of my interests, experience, and approach to quantitative research."
+    "section": "Contact",
+    "text": "Contact\n📧 victoria.luecke@uni-bielefeld.de"
   },
   {
     "objectID": "proj1.html",
@@ -53,21 +53,21 @@
     "href": "about.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Master Student in Statistical Sciences\nBielefeld University\n\n\n\n\n\nM.Sc. Statistical Sciences\nBielefeld University, Germany\n\n\n10/2025 – Present\n\n\n\n\nB.Sc. Economics\nPaderborn University, Germany\n\n\n10/2021 – 09/2025\n\n\n\n\nB.Sc. Economics\nPaderborn University, Germany\n\n\n10/2021 – 09/2025\n\n\n\n\n\n\n\n\n\nAssistant in the field of Social Media and IT\ndggö\n\n\n10/2025 – Present\n\n\n\n\nResearch Assistant at the Faculty of Empirical Economics\nUniversity Paderborn, Germany\n\n\n04/2024 – Present\n\n\n\n\nResearch Assistant at the Faculty of International Accounting\nUniversity Paderborn, Germany\n\n\n09/2024 – 02/2025\n\n\n\n\nProject work in the field of accounting\nPwC, Düsseldorf\n\n\n04/2025 – 07/2024\n\n\n\n\nInternship (in the field of semiconductor testing)\nADVANTEST, Böblingen\n\n\n2019\n\n\n\n\n\n\nSoftware: RStudio, Stata, SPSS, Microsoft Office\n\n\n\n\nMicrosoft Office\nUniversity Paderborn (2023)\nLaTex\nUniversity Paderborn (2023)"
+    "text": "Master Student in Statistical Sciences\nBielefeld University\n\n\n\n\n\nM.Sc. Statistical Sciences\nBielefeld University, Germany\n\n\n10/2025 – Present\n\n\n\n\nB.Sc. Economics\nPaderborn University, Germany Graduated with distinction (Final grade: 1.1)\n\n\n2022 – 08/2025\n\n\n\n\nB.Sc. Physics\nPaderborn University, Germany\n\n\n2021 – 2022\n\n\n\n\nAbitur (German University Entrance Qualification)\nKönig-Wilhelm-Gymnasium, Germany Final grade: 1.4\n\n\n2021 – 2022\n\n\n\n\n\n\n\n\n\nAssistant in the field of Social Media and IT\nGerman Health Economics Association e.V. (dggö)\n\n\n10/2025 – Present\n\n\n\n\nResearch Assistant at the Faculty of Empirical Economics\nUniversity Paderborn, Germany\n\n\n04/2024 – Present\n\n\n\n\nResearch Assistant at the Faculty of International Accounting\nUniversity Paderborn, Germany\n\n\n09/2024 – 02/2025\n\n\n\n\nProject work in the field of accounting\nPwC, Düsseldorf\n\n\n04/2025 – 07/2024\n\n\n\n\nInternship (in the field of semiconductor testing)\nADVANTEST, Böblingen\n\n\n2019\n\n\n\n\n\n\nSoftware: RStudio, Stata, SPSS, Microsoft Office\n\n\n\n\nMicrosoft Office\nUniversity Paderborn (2023)\nLaTex\nUniversity Paderborn (2023)"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "M.Sc. Statistical Sciences\nBielefeld University, Germany\n\n\n10/2025 – Present\n\n\n\n\nB.Sc. Economics\nPaderborn University, Germany\n\n\n10/2021 – 09/2025\n\n\n\n\nB.Sc. Economics\nPaderborn University, Germany\n\n\n10/2021 – 09/2025"
+    "text": "M.Sc. Statistical Sciences\nBielefeld University, Germany\n\n\n10/2025 – Present\n\n\n\n\nB.Sc. Economics\nPaderborn University, Germany Graduated with distinction (Final grade: 1.1)\n\n\n2022 – 08/2025\n\n\n\n\nB.Sc. Physics\nPaderborn University, Germany\n\n\n2021 – 2022\n\n\n\n\nAbitur (German University Entrance Qualification)\nKönig-Wilhelm-Gymnasium, Germany Final grade: 1.4\n\n\n2021 – 2022"
   },
   {
     "objectID": "about.html#professional-experience",
     "href": "about.html#professional-experience",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Assistant in the field of Social Media and IT\ndggö\n\n\n10/2025 – Present\n\n\n\n\nResearch Assistant at the Faculty of Empirical Economics\nUniversity Paderborn, Germany\n\n\n04/2024 – Present\n\n\n\n\nResearch Assistant at the Faculty of International Accounting\nUniversity Paderborn, Germany\n\n\n09/2024 – 02/2025\n\n\n\n\nProject work in the field of accounting\nPwC, Düsseldorf\n\n\n04/2025 – 07/2024\n\n\n\n\nInternship (in the field of semiconductor testing)\nADVANTEST, Böblingen\n\n\n2019"
+    "text": "Assistant in the field of Social Media and IT\nGerman Health Economics Association e.V. (dggö)\n\n\n10/2025 – Present\n\n\n\n\nResearch Assistant at the Faculty of Empirical Economics\nUniversity Paderborn, Germany\n\n\n04/2024 – Present\n\n\n\n\nResearch Assistant at the Faculty of International Accounting\nUniversity Paderborn, Germany\n\n\n09/2024 – 02/2025\n\n\n\n\nProject work in the field of accounting\nPwC, Düsseldorf\n\n\n04/2025 – 07/2024\n\n\n\n\nInternship (in the field of semiconductor testing)\nADVANTEST, Böblingen\n\n\n2019"
   },
   {
     "objectID": "about.html#skills",
