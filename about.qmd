@@ -33,7 +33,7 @@ Bielefeld University, Germany
 ::::: cv-item
 ::: cv-left
 **B.Sc. Economics**\
-Paderborn University, Germany
+Paderborn University, Germany\
 Graduated with distinction (Final grade: 1.1)
 :::
 
@@ -56,7 +56,7 @@ Paderborn University, Germany
 ::::: cv-item
 ::: cv-left
 **Abitur (German University Entrance Qualification)**\
-König-Wilhelm-Gymnasium, Germany
+König-Wilhelm-Gymnasium, Germany\ 
 Final grade: 1.4
 :::
 
@@ -64,8 +64,6 @@ Final grade: 1.4
 2021 – 2022
 :::
 :::::
-
-------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
