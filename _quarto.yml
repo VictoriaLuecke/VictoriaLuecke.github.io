@@ -4,6 +4,7 @@ project:
   
 website:
   title: "My Portfolio"
+  search: false
   navbar:
     left:
       - text: "Home"
@@ -20,17 +21,9 @@ website:
         menu: 
           - text: "R-Course"
             href: proj1.qmd          
-      - text: "Help"
-        href: help.qmd
     sidebar: false
-    tools:
-      - icon: github
-        href: https://github.com/0-cal/my-portfolio
-      - icon: linkedin
-#       href: enter link
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2026, Owen Callahan"
 
 format:
   html:
