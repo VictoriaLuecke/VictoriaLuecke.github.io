@@ -46,7 +46,7 @@ Graduated with distinction (Final grade: 1.1)
 ::: cv-left
 **Abitur (German University Entrance Qualification)**\
 König-Wilhelm-Gymnasium, Germany\ 
-Final grade: 1.4
+(Final grade: 1.4)
 :::
 
 ::: cv-right
