@@ -11,8 +11,8 @@ The following table provides an overview of the statistical software packages I 
 
 | Software | Data Types | Methods | Example Applications |
 |-----------|------------|----------|----------------------|
-| **R** | Longitudinal data, animal movement data, survey data, experimental data | Hidden Markov Models, GLMs, Linear Mixed Models, ANOVA, MANOVA, Multilevel Regression | Analysis of animal movement data using Hidden Markov Models |
+| **R** | Longitudinal data, animal movement data, survey data, experimental data | Hidden Markov Models, GLMs, Linear Mixed Models, ANOVA, MANOVA | Analysis of animal movement data using Hidden Markov Models |
 | **Stata** | Choice experiment data, survey data | Conditional Logit Models, Mixed Logit Models | Sustainable investment choice experiment |
 | **Python** | Unstructured text data, social media data | Tokenization, Stemming, Sentiment Analysis, Classification Evaluation | Sentiment analysis of airline tweets in Google Colab |
-| **SPSS** | Survey data, socio-economic data, cross-sectional data | ANOVA, Factor Analysis, Cluster Analysis, Discriminant Analysis | Multivariate statistical analysis |
+| **SPSS** | Survey data, socio-economic data | ANOVA, Factor Analysis, Cluster Analysis, Discriminant Analysis | Multivariate statistical analysis |
 | **Tableau** | International socio-economic indicator data | Scatterplots, Histograms, Boxplots, Interactive Dashboards | World Indicators dataset |
